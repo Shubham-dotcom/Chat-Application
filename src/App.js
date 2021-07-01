@@ -3,7 +3,7 @@ import ChatFeed from './components/ChatFeed';
 import LoginForm from './components/LoginForm';
 import './App.css';
 
-const projectID = 'fea5626e-fe51-43bd-bd1c-5ae09aaa8ca9';
+const projectID = 'd157eca6-fc68-4151-8cde-742cf3211f0e';
 
 const App = () => {
   if (!localStorage.getItem('username')) return <LoginForm />;
