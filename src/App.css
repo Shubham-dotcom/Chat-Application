@@ -8,6 +8,8 @@
   
   .ce-chat-list {
     background-color: rgb(240, 240, 240) !important;
+    color: 6B4F4F;
+    padding: 4px 10px;
   }
   
   .ce-chats-container {
