@@ -24,6 +24,7 @@
   .ce-active-chat-card {
     background-color: #cabcdc !important;
     border: 4px solid #cabcdc !important;
+    border-top-left-radius:2em;
     border-radius: 0px !important;
   }
   
